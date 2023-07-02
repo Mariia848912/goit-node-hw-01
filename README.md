@@ -2,4 +2,4 @@
 
 ## read
 
-![alt text](http://url/to/read.png)
+![plot](./img/read.PNG)
